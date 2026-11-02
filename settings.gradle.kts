@@ -21,6 +21,5 @@ dependencyResolutionManagement {
 rootProject.name = "Mi-Freeform"
 include(
     ":app",
-    ":freeform-server",
     ":service"
 )
